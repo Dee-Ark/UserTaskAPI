@@ -1,0 +1,14 @@
+C:\Users\oluwa\Documents\Tutorial Studies\UserTaskAPI\UserTaskShared\bin\Debug\net6.0\UserTaskCore.deps.json
+C:\Users\oluwa\Documents\Tutorial Studies\UserTaskAPI\UserTaskShared\bin\Debug\net6.0\UserTaskCore.runtimeconfig.json
+C:\Users\oluwa\Documents\Tutorial Studies\UserTaskAPI\UserTaskShared\bin\Debug\net6.0\UserTaskCore.dll
+C:\Users\oluwa\Documents\Tutorial Studies\UserTaskAPI\UserTaskShared\bin\Debug\net6.0\UserTaskCore.pdb
+C:\Users\oluwa\Documents\Tutorial Studies\UserTaskAPI\UserTaskShared\obj\Debug\net6.0\UserTaskCore.csproj.AssemblyReference.cache
+C:\Users\oluwa\Documents\Tutorial Studies\UserTaskAPI\UserTaskShared\obj\Debug\net6.0\UserTaskCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oluwa\Documents\Tutorial Studies\UserTaskAPI\UserTaskShared\obj\Debug\net6.0\UserTaskCore.AssemblyInfoInputs.cache
+C:\Users\oluwa\Documents\Tutorial Studies\UserTaskAPI\UserTaskShared\obj\Debug\net6.0\UserTaskCore.AssemblyInfo.cs
+C:\Users\oluwa\Documents\Tutorial Studies\UserTaskAPI\UserTaskShared\obj\Debug\net6.0\UserTaskCore.csproj.CoreCompileInputs.cache
+C:\Users\oluwa\Documents\Tutorial Studies\UserTaskAPI\UserTaskShared\obj\Debug\net6.0\UserTaskCore.dll
+C:\Users\oluwa\Documents\Tutorial Studies\UserTaskAPI\UserTaskShared\obj\Debug\net6.0\refint\UserTaskCore.dll
+C:\Users\oluwa\Documents\Tutorial Studies\UserTaskAPI\UserTaskShared\obj\Debug\net6.0\UserTaskCore.pdb
+C:\Users\oluwa\Documents\Tutorial Studies\UserTaskAPI\UserTaskShared\obj\Debug\net6.0\UserTaskCore.genruntimeconfig.cache
+C:\Users\oluwa\Documents\Tutorial Studies\UserTaskAPI\UserTaskShared\obj\Debug\net6.0\ref\UserTaskCore.dll
